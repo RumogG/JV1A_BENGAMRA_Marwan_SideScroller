@@ -11,13 +11,14 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheckLeft;
     public Transform groundCheckRight;
     public Animator animator;
+    private bool anim_spawn = true;
 
     public Rigidbody2D rb;
     private Vector3 velocity = Vector3.zero;
     public SpriteRenderer spriteRenderer;
     void Update()
     {
-        if (Input.GetButtonDown("Jump") && isGrounded) // si la spacebar est pressé et qu'on est au sol alors l'état de l'objet passe a "est en train de sauter"
+        if (!anim_spawn && Input.GetButtonDown("Jump") && isGrounded) // si la spacebar est pressé et qu'on est au sol alors l'état de l'objet passe a "est en train de sauter"
         {
             isJumping = true;
         }
@@ -30,9 +31,11 @@ public class PlayerMovement : MonoBehaviour
         
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
 
-
+        
+       
         MovePlayer(horizontalMovement);
-
+        
+       
         Flip(rb.velocity.x);
 
         float characterVelocity = Mathf.Abs(rb.velocity.x);
@@ -41,8 +44,11 @@ public class PlayerMovement : MonoBehaviour
     }
     void MovePlayer(float _horizontalMovement)
     {
-        Vector3 targetVelocity = new Vector2(_horizontalMovement, rb.velocity.y);
-        rb.velocity = Vector3.SmoothDamp(rb.velocity, targetVelocity, ref velocity, .05f);
+        if (!anim_spawn)
+        {
+            Vector3 targetVelocity = new Vector2(_horizontalMovement, rb.velocity.y);
+            rb.velocity = Vector3.SmoothDamp(rb.velocity, targetVelocity, ref velocity, .05f);
+        }
 
         if(isJumping == true)
         {
@@ -59,5 +65,11 @@ public class PlayerMovement : MonoBehaviour
         {
             spriteRenderer.flipX = true;
         }
+    }
+
+    void Anim_spawn_end()
+    {
+        Debug.Log("fin");
+        anim_spawn = false;
     }
 }
