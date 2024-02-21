@@ -1,0 +1,3051 @@
+fileFormatVersion: 2
+guid: aef3856b8519de440962cb73ed563bba
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Health_bar_Frame_0
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 571
+      width: 112
+      height: 19
+    spriteID: efba3a465ea940448b2b51f3f0795ef5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 571}
+  - name: Health_bar_Frame_1
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 598
+      width: 112
+      height: 19
+    spriteID: 2b556b30480194f4fa6d075eb21c08e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 598}
+  - name: Health_bar_Frame_2
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 598
+      width: 112
+      height: 19
+    spriteID: c33f250a13417e14c9d23cad1926a92b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 598}
+  - name: Health_bar_Frame_3
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 598
+      width: 112
+      height: 19
+    spriteID: 9a11ff536aafeda41beec332cbede7e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 598}
+  - name: Health_bar_Frame_4
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 598
+      width: 112
+      height: 19
+    spriteID: bf9e05b1d06600645bfbf9a7e3ddba36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 598}
+  - name: Health_bar_Frame_5
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 625
+      width: 112
+      height: 19
+    spriteID: 8f4ae044f031e0543aa07ae7ac784677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 625}
+  - name: Health_bar_Frame_6
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 625
+      width: 112
+      height: 19
+    spriteID: ca13fd7697813564b922fd1be15df9c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 625}
+  - name: Health_bar_Frame_7
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 625
+      width: 112
+      height: 19
+    spriteID: 59b668e77c1bfe14dbd804b621486261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 625}
+  - name: Health_bar_Frame_8
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 625
+      width: 112
+      height: 19
+    spriteID: f629c5c0a94f54c4c9b3e160ec4c21eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 625}
+  - name: Health_bar_Frame_9
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 652
+      width: 112
+      height: 19
+    spriteID: f4d3c1a162340d64fafd418b39001bbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 652}
+  - name: Health_bar_Frame_10
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 652
+      width: 112
+      height: 19
+    spriteID: c6b5735395e6ae54aa9bebd9fe64ce2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 652}
+  - name: Health_bar_Frame_11
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 652
+      width: 112
+      height: 19
+    spriteID: dcc52928a1ac3b64283e0ba572873506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 652}
+  - name: Health_bar_Frame_12
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 652
+      width: 112
+      height: 19
+    spriteID: d53488e89cf389f43aca9a02d794a6eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 652}
+  - name: Health_bar_Frame_13
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 679
+      width: 112
+      height: 19
+    spriteID: 5a34705cbf21c0640b1445a6a013fdb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 679}
+  - name: Health_bar_Frame_14
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 679
+      width: 112
+      height: 19
+    spriteID: 6f406b21d1df5ea4e8fa13827d05ce60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 679}
+  - name: Health_bar_Frame_15
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 679
+      width: 112
+      height: 19
+    spriteID: 4e7202499285b554da88ab4a75e2946e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 679}
+  - name: Health_bar_Frame_16
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 679
+      width: 112
+      height: 19
+    spriteID: c3a135a3c3fa0cb44a9857f6974c6f71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 679}
+  - name: Health_bar_Frame_17
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 114
+      height: 19
+    spriteID: 56131df040e0b294baf056a728c33f2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Health_bar_Frame_18
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 114
+      height: 19
+    spriteID: e90f0a9b33afeb04a86ddc0dd0527cd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 4}
+  - name: Health_bar_Frame_19
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 4
+      width: 114
+      height: 19
+    spriteID: 8c31eabeb824b6b448dd97a453d5c353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 4}
+  - name: Health_bar_Frame_20
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 4
+      width: 114
+      height: 19
+    spriteID: 94b7368c2b99bc7459cf62d5c62e41f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 4}
+  - name: Health_bar_Frame_21
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 31
+      width: 114
+      height: 19
+    spriteID: cd2a437ac2426114cb88ec6c8e6d1635
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 31}
+  - name: Health_bar_Frame_22
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 31
+      width: 114
+      height: 19
+    spriteID: 742f13a6089c21844a40ccd443cd9438
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 31}
+  - name: Health_bar_Frame_23
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 31
+      width: 114
+      height: 19
+    spriteID: 82d2441b78677e948ac3c873a6f10bf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 31}
+  - name: Health_bar_Frame_24
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 31
+      width: 114
+      height: 19
+    spriteID: 8e7a663a3eda9ec40b5d4736687d0858
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 31}
+  - name: Health_bar_Frame_25
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 114
+      height: 19
+    spriteID: 7bb335a3adb7ee644be74263d211ae95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 58}
+  - name: Health_bar_Frame_26
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 58
+      width: 114
+      height: 19
+    spriteID: bfac4fbbdbc566d49ad82510c3d69f29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 58}
+  - name: Health_bar_Frame_27
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 58
+      width: 114
+      height: 19
+    spriteID: 30c103d98d4875146a5feed14938dac4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 58}
+  - name: Health_bar_Frame_28
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 58
+      width: 114
+      height: 19
+    spriteID: de33e8fe94bb4af4090490f2ae33890f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 58}
+  - name: Health_bar_Frame_29
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 85
+      width: 114
+      height: 19
+    spriteID: b2e8962f4aece19419b52fc568a97166
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 85}
+  - name: Health_bar_Frame_30
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 85
+      width: 114
+      height: 19
+    spriteID: 2c4a774e71f5ccf4badc40574156b69f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 85}
+  - name: Health_bar_Frame_31
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 85
+      width: 114
+      height: 19
+    spriteID: 173715f86d1e13e4582bbca60ad49ca3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 85}
+  - name: Health_bar_Frame_32
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 85
+      width: 114
+      height: 19
+    spriteID: cfc8c4c9e19f0b445ab7abded1a49334
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 85}
+  - name: Health_bar_Frame_33
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 112
+      width: 114
+      height: 19
+    spriteID: 879cbe406c74dd349b0663aac97f6a6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 112}
+  - name: Health_bar_Frame_34
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 112
+      width: 114
+      height: 19
+    spriteID: aa6ebd2a6c807bb45ac8b9d3efea818b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 112}
+  - name: Health_bar_Frame_35
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 112
+      width: 114
+      height: 19
+    spriteID: 28685ae8403b25141b462340f6c0768b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 112}
+  - name: Health_bar_Frame_36
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 112
+      width: 114
+      height: 19
+    spriteID: 8ce22b9607d2872488886e48df5de257
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 112}
+  - name: Health_bar_Frame_37
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 114
+      height: 19
+    spriteID: f441e73c17c8a3546aa9e047e1a5352f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: Health_bar_Frame_38
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 139
+      width: 114
+      height: 19
+    spriteID: 44735946e0f4c2c4f93790596475c225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 139}
+  - name: Health_bar_Frame_39
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 139
+      width: 114
+      height: 19
+    spriteID: 4e1cdf25d16ca664d9bc77c926093525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 139}
+  - name: Health_bar_Frame_40
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 139
+      width: 114
+      height: 19
+    spriteID: a744af58ecf4da3489732e0e2ecc3f2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 139}
+  - name: Health_bar_Frame_41
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 166
+      width: 114
+      height: 19
+    spriteID: 89253b66ca10152429dbbcce0ccfd739
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 166}
+  - name: Health_bar_Frame_42
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 166
+      width: 114
+      height: 19
+    spriteID: 6ec7473e128b1094cb84bfaad9510bc5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 166}
+  - name: Health_bar_Frame_43
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 166
+      width: 114
+      height: 19
+    spriteID: b398fc7065af18749b2a3dc9dd66b0f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 166}
+  - name: Health_bar_Frame_44
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 166
+      width: 114
+      height: 19
+    spriteID: b1d3aadb48f0e4a48b67abb597f809f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 166}
+  - name: Health_bar_Frame_45
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 193
+      width: 114
+      height: 19
+    spriteID: c83ee217e14711446860ce355e63c6ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 193}
+  - name: Health_bar_Frame_46
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 193
+      width: 114
+      height: 19
+    spriteID: cc43195108565564ba4b6acabf035dda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 193}
+  - name: Health_bar_Frame_47
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 193
+      width: 114
+      height: 19
+    spriteID: 5104fcfe16bebd14b8165dc8924c3779
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 193}
+  - name: Health_bar_Frame_48
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 193
+      width: 114
+      height: 19
+    spriteID: 438fcefccb1bc2146aadd5d9a0315f67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 193}
+  - name: Health_bar_Frame_49
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 114
+      height: 19
+    spriteID: ea0586acef6861c42b3addc00aee8645
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Health_bar_Frame_50
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 220
+      width: 114
+      height: 19
+    spriteID: ce3d669c5dd80d04f83e01e89efb106d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 220}
+  - name: Health_bar_Frame_51
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 220
+      width: 114
+      height: 19
+    spriteID: 58fc127a62c0a214097c1b0cdbadbb7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 220}
+  - name: Health_bar_Frame_52
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 220
+      width: 114
+      height: 19
+    spriteID: 77af984c81c27dc49aa33bb39aeb23d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 220}
+  - name: Health_bar_Frame_53
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 114
+      height: 19
+    spriteID: fa84086dc52f61f47b44698c8230545d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 247}
+  - name: Health_bar_Frame_54
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 247
+      width: 114
+      height: 19
+    spriteID: ba989100e868e3f41ab24c1a3a8f1bc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 247}
+  - name: Health_bar_Frame_55
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 247
+      width: 114
+      height: 19
+    spriteID: 3cdacf89a4bb26a459e12f00589b2bd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 247}
+  - name: Health_bar_Frame_56
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 247
+      width: 114
+      height: 19
+    spriteID: eade72cfaf061034baa893a02e15a156
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 247}
+  - name: Health_bar_Frame_57
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 274
+      width: 114
+      height: 19
+    spriteID: 02f66d6ff75c051408c8634fed0fa3c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 274}
+  - name: Health_bar_Frame_58
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 274
+      width: 114
+      height: 19
+    spriteID: 4d4ae79cb84fd1b47879364b0baeea0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 274}
+  - name: Health_bar_Frame_59
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 274
+      width: 114
+      height: 19
+    spriteID: 59eb366008795bb439dfe947a211b5aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 274}
+  - name: Health_bar_Frame_60
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 274
+      width: 114
+      height: 19
+    spriteID: d82750739ecd9644aa447e9305e6290d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 274}
+  - name: Health_bar_Frame_61
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 301
+      width: 114
+      height: 19
+    spriteID: 6fc45dae9c7c33442a905572b10c8dba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 301}
+  - name: Health_bar_Frame_62
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 301
+      width: 114
+      height: 19
+    spriteID: 3ab5cee71a7ec3c40b731d5a2d168b3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 301}
+  - name: Health_bar_Frame_63
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 301
+      width: 114
+      height: 19
+    spriteID: a3a27a39370a3e243843de6ad5b88520
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 301}
+  - name: Health_bar_Frame_64
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 301
+      width: 114
+      height: 19
+    spriteID: 7f8b73e88182f6f479abd553c58150e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 301}
+  - name: Health_bar_Frame_65
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 328
+      width: 114
+      height: 19
+    spriteID: f48fead0ca608744ca35dcaf27d206aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 328}
+  - name: Health_bar_Frame_66
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 328
+      width: 114
+      height: 19
+    spriteID: 0636b5d30ac47b84aa4abf3033a031a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 328}
+  - name: Health_bar_Frame_67
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 328
+      width: 114
+      height: 19
+    spriteID: 2ad8efa217341fd489647f27d27e5b20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 328}
+  - name: Health_bar_Frame_68
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 328
+      width: 114
+      height: 19
+    spriteID: f4da672849925d74d9d219030eec304d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 328}
+  - name: Health_bar_Frame_69
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 355
+      width: 114
+      height: 19
+    spriteID: b4be55f170097cf4f9c08fd9fdf22c31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 355}
+  - name: Health_bar_Frame_70
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 355
+      width: 114
+      height: 19
+    spriteID: 7e9f9723865b3cc4cb96e3bca86dba5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 355}
+  - name: Health_bar_Frame_71
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 355
+      width: 114
+      height: 19
+    spriteID: 14b5745d8273ece4a9d71fc3180676b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 355}
+  - name: Health_bar_Frame_72
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 355
+      width: 114
+      height: 19
+    spriteID: bca854e18f5cffa43b4495212adbe0ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 355}
+  - name: Health_bar_Frame_73
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 382
+      width: 114
+      height: 19
+    spriteID: 908b6c883fd3750449b071aa6e3bde11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 382}
+  - name: Health_bar_Frame_74
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 382
+      width: 114
+      height: 19
+    spriteID: 8a86870d477c8f545b5907e3c58f0801
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 382}
+  - name: Health_bar_Frame_75
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 382
+      width: 114
+      height: 19
+    spriteID: fc0706655902c554bb141309fa3e9f31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 382}
+  - name: Health_bar_Frame_76
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 382
+      width: 114
+      height: 19
+    spriteID: 2ed845b6a06f08740960a8c0522928e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 382}
+  - name: Health_bar_Frame_77
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 409
+      width: 114
+      height: 19
+    spriteID: cb6f900a81a5fbb478291740cd2a00f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 409}
+  - name: Health_bar_Frame_78
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 409
+      width: 114
+      height: 19
+    spriteID: 67b1beb4d53e0064d840cfdbd8cd1ae8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 409}
+  - name: Health_bar_Frame_79
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 409
+      width: 114
+      height: 19
+    spriteID: 274798329ef705743978b503825dac8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 409}
+  - name: Health_bar_Frame_80
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 409
+      width: 114
+      height: 19
+    spriteID: c0a6040d041be934dbd59f4433c015c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 409}
+  - name: Health_bar_Frame_81
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 114
+      height: 19
+    spriteID: f82fb73de06a8d942b8da3f1830fc287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 436}
+  - name: Health_bar_Frame_82
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 436
+      width: 114
+      height: 19
+    spriteID: 2cd407ff84b0b284ca0ec9e32385c38b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 436}
+  - name: Health_bar_Frame_83
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 436
+      width: 114
+      height: 19
+    spriteID: ae5e36bd74e549141a5cf14954bfb28a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 436}
+  - name: Health_bar_Frame_84
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 436
+      width: 114
+      height: 19
+    spriteID: 181ea7cdc73ea5e4aaff93a2d25d05ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 436}
+  - name: Health_bar_Frame_85
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 114
+      height: 19
+    spriteID: 6d0135ba0fba4e84383ab95f1975c51b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 463}
+  - name: Health_bar_Frame_86
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 463
+      width: 114
+      height: 19
+    spriteID: 8fac686ee6da3f144a68d7a25c651e6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 463}
+  - name: Health_bar_Frame_87
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 463
+      width: 114
+      height: 19
+    spriteID: ab6fe1ef5922131468d53f46d98336f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 463}
+  - name: Health_bar_Frame_88
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 463
+      width: 114
+      height: 19
+    spriteID: 8332fad3a3a154e48b4e19baaf5f7ebb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 463}
+  - name: Health_bar_Frame_89
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 490
+      width: 114
+      height: 19
+    spriteID: e60f02619fbaa4b4c9637b2d2c0dedeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 490}
+  - name: Health_bar_Frame_90
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 490
+      width: 114
+      height: 19
+    spriteID: aa857859b9210bd4cb260d288e20cb5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 490}
+  - name: Health_bar_Frame_91
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 490
+      width: 114
+      height: 19
+    spriteID: 98b304fb72366994ab3c26db59b633bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 490}
+  - name: Health_bar_Frame_92
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 490
+      width: 114
+      height: 19
+    spriteID: b37dbe0239d66344f8e66db87406b69c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 490}
+  - name: Health_bar_Frame_93
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 517
+      width: 114
+      height: 19
+    spriteID: ce6dccfbfdf33cd44810696ce4818a61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 517}
+  - name: Health_bar_Frame_94
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 517
+      width: 114
+      height: 19
+    spriteID: e4ea4ad0860179e448a78f99972c3dc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 517}
+  - name: Health_bar_Frame_95
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 517
+      width: 114
+      height: 19
+    spriteID: 8ac823e1ffaa83d488a997c0565c2bf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 517}
+  - name: Health_bar_Frame_96
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 517
+      width: 114
+      height: 19
+    spriteID: b6dfec0d36d721446b75f1a4775a4dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 517}
+  - name: Health_bar_Frame_97
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 544
+      width: 114
+      height: 19
+    spriteID: 94a2a8c461cc9fc41925d878642bfe68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 544}
+  - name: Health_bar_Frame_98
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 544
+      width: 114
+      height: 19
+    spriteID: a19f34dd39eec994088a43787ade6819
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 544}
+  - name: Health_bar_Frame_99
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 544
+      width: 114
+      height: 19
+    spriteID: 6bb3fb75d8c98e94ea12fe3a22b869fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 544}
+  - name: Health_bar_Frame_100
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 544
+      width: 114
+      height: 19
+    spriteID: c11963e437b404e41a88e6c5381e58c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 544}
+  - name: Health_bar_Frame_101
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 571
+      width: 114
+      height: 19
+    spriteID: 6b555922eef13f64cb5215dca44cd6b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 571}
+  - name: Health_bar_Frame_102
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 571
+      width: 114
+      height: 19
+    spriteID: b4971d46123db2b4c84730dce66fcadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 571}
+  - name: Health_bar_Frame_103
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.2105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 571
+      width: 114
+      height: 19
+    spriteID: 500829b2748d8994d9ae096af745200d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 571}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 450645538
+    name: Health_bar
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Health_bar_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: efba3a465ea940448b2b51f3f0795ef5
+    - name: Health_bar_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 2b556b30480194f4fa6d075eb21c08e3
+    - name: Health_bar_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: c33f250a13417e14c9d23cad1926a92b
+    - name: Health_bar_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 9a11ff536aafeda41beec332cbede7e7
+    - name: Health_bar_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: bf9e05b1d06600645bfbf9a7e3ddba36
+    - name: Health_bar_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 8f4ae044f031e0543aa07ae7ac784677
+    - name: Health_bar_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: ca13fd7697813564b922fd1be15df9c3
+    - name: Health_bar_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 59b668e77c1bfe14dbd804b621486261
+    - name: Health_bar_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: f629c5c0a94f54c4c9b3e160ec4c21eb
+    - name: Health_bar_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: f4d3c1a162340d64fafd418b39001bbb
+    - name: Health_bar_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: c6b5735395e6ae54aa9bebd9fe64ce2a
+    - name: Health_bar_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: dcc52928a1ac3b64283e0ba572873506
+    - name: Health_bar_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: d53488e89cf389f43aca9a02d794a6eb
+    - name: Health_bar_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 5a34705cbf21c0640b1445a6a013fdb4
+    - name: Health_bar_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 6f406b21d1df5ea4e8fa13827d05ce60
+    - name: Health_bar_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: 4e7202499285b554da88ab4a75e2946e
+    - name: Health_bar_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 2
+        y: 4
+        width: 112
+        height: 19
+      spriteId: c3a135a3c3fa0cb44a9857f6974c6f71
+    - name: Health_bar_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 56131df040e0b294baf056a728c33f2a
+    - name: Health_bar_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: e90f0a9b33afeb04a86ddc0dd0527cd0
+    - name: Health_bar_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8c31eabeb824b6b448dd97a453d5c353
+    - name: Health_bar_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 94b7368c2b99bc7459cf62d5c62e41f2
+    - name: Health_bar_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: cd2a437ac2426114cb88ec6c8e6d1635
+    - name: Health_bar_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 742f13a6089c21844a40ccd443cd9438
+    - name: Health_bar_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 82d2441b78677e948ac3c873a6f10bf9
+    - name: Health_bar_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8e7a663a3eda9ec40b5d4736687d0858
+    - name: Health_bar_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 7bb335a3adb7ee644be74263d211ae95
+    - name: Health_bar_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: bfac4fbbdbc566d49ad82510c3d69f29
+    - name: Health_bar_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 30c103d98d4875146a5feed14938dac4
+    - name: Health_bar_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: de33e8fe94bb4af4090490f2ae33890f
+    - name: Health_bar_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b2e8962f4aece19419b52fc568a97166
+    - name: Health_bar_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 2c4a774e71f5ccf4badc40574156b69f
+    - name: Health_bar_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 173715f86d1e13e4582bbca60ad49ca3
+    - name: Health_bar_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: cfc8c4c9e19f0b445ab7abded1a49334
+    - name: Health_bar_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 879cbe406c74dd349b0663aac97f6a6b
+    - name: Health_bar_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: aa6ebd2a6c807bb45ac8b9d3efea818b
+    - name: Health_bar_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 28685ae8403b25141b462340f6c0768b
+    - name: Health_bar_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8ce22b9607d2872488886e48df5de257
+    - name: Health_bar_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: f441e73c17c8a3546aa9e047e1a5352f
+    - name: Health_bar_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 44735946e0f4c2c4f93790596475c225
+    - name: Health_bar_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 4e1cdf25d16ca664d9bc77c926093525
+    - name: Health_bar_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: a744af58ecf4da3489732e0e2ecc3f2c
+    - name: Health_bar_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 89253b66ca10152429dbbcce0ccfd739
+    - name: Health_bar_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 6ec7473e128b1094cb84bfaad9510bc5
+    - name: Health_bar_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b398fc7065af18749b2a3dc9dd66b0f1
+    - name: Health_bar_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b1d3aadb48f0e4a48b67abb597f809f1
+    - name: Health_bar_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: c83ee217e14711446860ce355e63c6ab
+    - name: Health_bar_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: cc43195108565564ba4b6acabf035dda
+    - name: Health_bar_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 5104fcfe16bebd14b8165dc8924c3779
+    - name: Health_bar_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 438fcefccb1bc2146aadd5d9a0315f67
+    - name: Health_bar_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ea0586acef6861c42b3addc00aee8645
+    - name: Health_bar_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ce3d669c5dd80d04f83e01e89efb106d
+    - name: Health_bar_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 58fc127a62c0a214097c1b0cdbadbb7f
+    - name: Health_bar_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 77af984c81c27dc49aa33bb39aeb23d4
+    - name: Health_bar_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: fa84086dc52f61f47b44698c8230545d
+    - name: Health_bar_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ba989100e868e3f41ab24c1a3a8f1bc7
+    - name: Health_bar_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 3cdacf89a4bb26a459e12f00589b2bd3
+    - name: Health_bar_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: eade72cfaf061034baa893a02e15a156
+    - name: Health_bar_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 02f66d6ff75c051408c8634fed0fa3c5
+    - name: Health_bar_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 4d4ae79cb84fd1b47879364b0baeea0d
+    - name: Health_bar_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 59eb366008795bb439dfe947a211b5aa
+    - name: Health_bar_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: d82750739ecd9644aa447e9305e6290d
+    - name: Health_bar_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 6fc45dae9c7c33442a905572b10c8dba
+    - name: Health_bar_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 3ab5cee71a7ec3c40b731d5a2d168b3a
+    - name: Health_bar_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: a3a27a39370a3e243843de6ad5b88520
+    - name: Health_bar_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 7f8b73e88182f6f479abd553c58150e6
+    - name: Health_bar_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: f48fead0ca608744ca35dcaf27d206aa
+    - name: Health_bar_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 0636b5d30ac47b84aa4abf3033a031a7
+    - name: Health_bar_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 2ad8efa217341fd489647f27d27e5b20
+    - name: Health_bar_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: f4da672849925d74d9d219030eec304d
+    - name: Health_bar_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b4be55f170097cf4f9c08fd9fdf22c31
+    - name: Health_bar_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 7e9f9723865b3cc4cb96e3bca86dba5f
+    - name: Health_bar_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 14b5745d8273ece4a9d71fc3180676b3
+    - name: Health_bar_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: bca854e18f5cffa43b4495212adbe0ce
+    - name: Health_bar_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 908b6c883fd3750449b071aa6e3bde11
+    - name: Health_bar_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8a86870d477c8f545b5907e3c58f0801
+    - name: Health_bar_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: fc0706655902c554bb141309fa3e9f31
+    - name: Health_bar_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 2ed845b6a06f08740960a8c0522928e3
+    - name: Health_bar_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: cb6f900a81a5fbb478291740cd2a00f6
+    - name: Health_bar_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 67b1beb4d53e0064d840cfdbd8cd1ae8
+    - name: Health_bar_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 274798329ef705743978b503825dac8a
+    - name: Health_bar_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: c0a6040d041be934dbd59f4433c015c2
+    - name: Health_bar_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: f82fb73de06a8d942b8da3f1830fc287
+    - name: Health_bar_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 2cd407ff84b0b284ca0ec9e32385c38b
+    - name: Health_bar_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ae5e36bd74e549141a5cf14954bfb28a
+    - name: Health_bar_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 181ea7cdc73ea5e4aaff93a2d25d05ef
+    - name: Health_bar_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 6d0135ba0fba4e84383ab95f1975c51b
+    - name: Health_bar_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8fac686ee6da3f144a68d7a25c651e6e
+    - name: Health_bar_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ab6fe1ef5922131468d53f46d98336f0
+    - name: Health_bar_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8332fad3a3a154e48b4e19baaf5f7ebb
+    - name: Health_bar_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: e60f02619fbaa4b4c9637b2d2c0dedeb
+    - name: Health_bar_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: aa857859b9210bd4cb260d288e20cb5b
+    - name: Health_bar_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 98b304fb72366994ab3c26db59b633bb
+    - name: Health_bar_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b37dbe0239d66344f8e66db87406b69c
+    - name: Health_bar_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: ce6dccfbfdf33cd44810696ce4818a61
+    - name: Health_bar_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: e4ea4ad0860179e448a78f99972c3dc9
+    - name: Health_bar_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 8ac823e1ffaa83d488a997c0565c2bf0
+    - name: Health_bar_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b6dfec0d36d721446b75f1a4775a4dab
+    - name: Health_bar_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 94a2a8c461cc9fc41925d878642bfe68
+    - name: Health_bar_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: a19f34dd39eec994088a43787ade6819
+    - name: Health_bar_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 6bb3fb75d8c98e94ea12fe3a22b869fb
+    - name: Health_bar_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: c11963e437b404e41a88e6c5381e58c5
+    - name: Health_bar_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 6b555922eef13f64cb5215dca44cd6b8
+    - name: Health_bar_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: b4971d46123db2b4c84730dce66fcadb
+    - name: Health_bar_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 2
+        y: 4
+        width: 114
+        height: 19
+      spriteId: 500829b2748d8994d9ae096af745200d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 120, y: 25}
