@@ -15,4 +15,11 @@ public class HealthBar : MonoBehaviour
     {
         
     }
+
+    public Vector4 padding 
+    { 
+        get; 
+
+        set; 
+    }
 }
