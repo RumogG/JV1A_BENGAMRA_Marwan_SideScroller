@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - trap
+  - portal
+  - acide
+  - c1
+  - c2
+  - c3
+  - ground
+  - Level
   layers:
   - Default
   - TransparentFX
@@ -13,7 +20,7 @@ TagManager:
   - Water
   - UI
   - trap
-  - 
+  - ground
   - 
   - 
   - 

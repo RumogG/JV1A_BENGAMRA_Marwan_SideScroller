@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BloodOnSaw : MonoBehaviour
+public class End : MonoBehaviour
 {
     public Animator anim;
 
@@ -10,9 +10,7 @@ public class BloodOnSaw : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            anim.SetTrigger("Kill");
+            anim.SetTrigger("killed_player");
         }
     }
 }
-    
-

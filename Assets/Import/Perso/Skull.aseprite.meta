@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 682e6ebdaee5caf48b6b9bf044be31a1
+guid: 1bf9670bb5793fe4089c5a7e66b05623
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Saw_Frame_0
+  - name: Skull_Frame_0
     originalName: 
-    pivot: {x: 0.5357143, y: 0}
+    pivot: {x: 0.5, y: -0.04}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 42
-      y: 52
-      width: 28
-      height: 15
-    spriteID: 8071f3e71c4ab5a4abefe8621869b855
+      x: 4
+      y: 43
+      width: 22
+      height: 25
+    spriteID: eae60cf835306da4abe561a1bbd225e3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -140,19 +140,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 42, y: 52}
-  - name: Saw_Frame_1
+    uvTransform: {x: 4, y: 43}
+  - name: Skull_Frame_1
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: -0.04}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 43
-      y: 28
-      width: 30
-      height: 16
-    spriteID: c601f86229c06cc429709731bd71a2be
+      x: 4
+      y: 76
+      width: 22
+      height: 25
+    spriteID: 1102ed459db1e374bb9b86a83b5892eb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,19 +160,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 43, y: 28}
-  - name: Saw_Frame_2
+    uvTransform: {x: 4, y: 76}
+  - name: Skull_Frame_2
     originalName: 
-    pivot: {x: 0.48387095, y: 0}
+    pivot: {x: 0.5, y: -0.04}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 84
-      y: 4
-      width: 31
-      height: 16
-    spriteID: 1fc5e92b356801a4c99cbc72200a0c52
+      x: 34
+      y: 43
+      width: 22
+      height: 25
+    spriteID: 53e032d1f0a405046a48a39d9d4489cf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -180,19 +180,39 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 84, y: 4}
-  - name: Saw_Frame_3
+    uvTransform: {x: 34, y: 43}
+  - name: Skull_Frame_3
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: -0.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 76
+      width: 22
+      height: 25
+    spriteID: 736b2addd11884645b3e02a9f7becf79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 76}
+  - name: Skull_Frame_4
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.032258064}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 32
-      height: 16
-    spriteID: 9f54b62a856123847a33007dc3e7093a
+      width: 31
+      height: 31
+    spriteID: 5d55000d6e4dfed4f94b493a240f699d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,187 +221,55 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Saw_Frame_4
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 81
-      y: 28
-      width: 32
-      height: 15
-    spriteID: 99c71cc83a4677049a5f4338ca1f84c8
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 81, y: 28}
-  - name: Saw_Frame_5
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 44
-      y: 4
-      width: 32
-      height: 16
-    spriteID: 8da5987b0c54656408b1ab763f4660ab
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 44, y: 4}
-  - name: Saw_Frame_6
-    originalName: 
-    pivot: {x: 0.48387095, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 28
-      width: 31
-      height: 16
-    spriteID: 4ab3f0e1a73b61e4f90633d089340a8b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 28}
-  - name: Saw_Frame_7
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 52
-      width: 30
-      height: 16
-    spriteID: 6bbc63ca65f4bcc4b99d860240fb3e29
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 52}
-  - name: Saw_Frame_8
-    originalName: 
-    pivot: {x: 0.5357143, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 78
-      y: 52
-      width: 28
-      height: 15
-    spriteID: 37ffa82f66aa76340ba824a95f426913
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 78, y: 52}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1446398865
-    name: Saw
+    guid: 1520891557
+    name: Skull
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Saw_Frame_0
+    - name: Skull_Frame_0
       frameIndex: 0
       cellRect:
-        x: 1
-        y: 0
-        width: 28
-        height: 15
-      spriteId: 8071f3e71c4ab5a4abefe8621869b855
-    - name: Saw_Frame_1
+        x: 5
+        y: 1
+        width: 22
+        height: 25
+      spriteId: eae60cf835306da4abe561a1bbd225e3
+    - name: Skull_Frame_1
       frameIndex: 1
       cellRect:
-        x: 1
-        y: 0
-        width: 30
-        height: 16
-      spriteId: c601f86229c06cc429709731bd71a2be
-    - name: Saw_Frame_2
+        x: 5
+        y: 1
+        width: 22
+        height: 25
+      spriteId: 1102ed459db1e374bb9b86a83b5892eb
+    - name: Skull_Frame_2
       frameIndex: 2
       cellRect:
-        x: 1
-        y: 0
-        width: 31
-        height: 16
-      spriteId: 1fc5e92b356801a4c99cbc72200a0c52
-    - name: Saw_Frame_3
+        x: 5
+        y: 1
+        width: 22
+        height: 25
+      spriteId: 53e032d1f0a405046a48a39d9d4489cf
+    - name: Skull_Frame_3
       frameIndex: 3
       cellRect:
-        x: 0
-        y: 0
-        width: 32
-        height: 16
-      spriteId: 9f54b62a856123847a33007dc3e7093a
-    - name: Saw_Frame_4
+        x: 5
+        y: 1
+        width: 22
+        height: 25
+      spriteId: 736b2addd11884645b3e02a9f7becf79
+    - name: Skull_Frame_4
       frameIndex: 4
       cellRect:
-        x: 0
-        y: 0
-        width: 32
-        height: 15
-      spriteId: 99c71cc83a4677049a5f4338ca1f84c8
-    - name: Saw_Frame_5
-      frameIndex: 5
-      cellRect:
-        x: 0
-        y: 0
-        width: 32
-        height: 16
-      spriteId: 8da5987b0c54656408b1ab763f4660ab
-    - name: Saw_Frame_6
-      frameIndex: 6
-      cellRect:
         x: 1
-        y: 0
+        y: 1
         width: 31
-        height: 16
-      spriteId: 4ab3f0e1a73b61e4f90633d089340a8b
-    - name: Saw_Frame_7
-      frameIndex: 7
-      cellRect:
-        x: 1
-        y: 0
-        width: 30
-        height: 16
-      spriteId: 6bbc63ca65f4bcc4b99d860240fb3e29
-    - name: Saw_Frame_8
-      frameIndex: 8
-      cellRect:
-        x: 1
-        y: 0
-        width: 28
-        height: 15
-      spriteId: 37ffa82f66aa76340ba824a95f426913
+        height: 31
+      spriteId: 5d55000d6e4dfed4f94b493a240f699d
     linkedCells: []
     parentIndex: -1
   platformSettings: []

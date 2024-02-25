@@ -123,15 +123,15 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Health_bar_Frame_0
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.49532712, y: -0.77777773}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 370
-      y: 571
-      width: 112
-      height: 19
+      x: 319
+      y: 679
+      width: 107
+      height: 9
     spriteID: efba3a465ea940448b2b51f3f0795ef5
     spriteBone: []
     spriteOutline: []
@@ -140,17 +140,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 370, y: 571}
+    uvTransform: {x: 319, y: 679}
   - name: Health_bar_Frame_1
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5225225, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 598
-      width: 112
+      x: 370
+      y: 571
+      width: 111
       height: 19
     spriteID: 2b556b30480194f4fa6d075eb21c08e3
     spriteBone: []
@@ -160,17 +160,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 598}
+    uvTransform: {x: 370, y: 571}
   - name: Health_bar_Frame_2
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5272727, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 124
+      x: 4
       y: 598
-      width: 112
+      width: 110
       height: 19
     spriteID: c33f250a13417e14c9d23cad1926a92b
     spriteBone: []
@@ -180,17 +180,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 124, y: 598}
+    uvTransform: {x: 4, y: 598}
   - name: Health_bar_Frame_3
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5321101, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 244
+      x: 122
       y: 598
-      width: 112
+      width: 109
       height: 19
     spriteID: 9a11ff536aafeda41beec332cbede7e7
     spriteBone: []
@@ -200,17 +200,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 244, y: 598}
+    uvTransform: {x: 122, y: 598}
   - name: Health_bar_Frame_4
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5370371, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 364
+      x: 239
       y: 598
-      width: 112
+      width: 108
       height: 19
     spriteID: bf9e05b1d06600645bfbf9a7e3ddba36
     spriteBone: []
@@ -220,17 +220,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 364, y: 598}
+    uvTransform: {x: 239, y: 598}
   - name: Health_bar_Frame_5
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5420561, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 625
-      width: 112
+      x: 355
+      y: 598
+      width: 107
       height: 19
     spriteID: 8f4ae044f031e0543aa07ae7ac784677
     spriteBone: []
@@ -240,17 +240,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 625}
+    uvTransform: {x: 355, y: 598}
   - name: Health_bar_Frame_6
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5471698, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 124
+      x: 4
       y: 625
-      width: 112
+      width: 106
       height: 19
     spriteID: ca13fd7697813564b922fd1be15df9c3
     spriteBone: []
@@ -260,17 +260,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 124, y: 625}
+    uvTransform: {x: 4, y: 625}
   - name: Health_bar_Frame_7
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.552381, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 244
+      x: 118
       y: 625
-      width: 112
+      width: 105
       height: 19
     spriteID: 59b668e77c1bfe14dbd804b621486261
     spriteBone: []
@@ -280,17 +280,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 244, y: 625}
+    uvTransform: {x: 118, y: 625}
   - name: Health_bar_Frame_8
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5576923, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 364
+      x: 231
       y: 625
-      width: 112
+      width: 104
       height: 19
     spriteID: f629c5c0a94f54c4c9b3e160ec4c21eb
     spriteBone: []
@@ -300,17 +300,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 364, y: 625}
+    uvTransform: {x: 231, y: 625}
   - name: Health_bar_Frame_9
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.56310683, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 652
-      width: 112
+      x: 343
+      y: 625
+      width: 103
       height: 19
     spriteID: f4d3c1a162340d64fafd418b39001bbb
     spriteBone: []
@@ -320,17 +320,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 652}
+    uvTransform: {x: 343, y: 625}
   - name: Health_bar_Frame_10
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5686275, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 124
+      x: 4
       y: 652
-      width: 112
+      width: 102
       height: 19
     spriteID: c6b5735395e6ae54aa9bebd9fe64ce2a
     spriteBone: []
@@ -340,17 +340,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 124, y: 652}
+    uvTransform: {x: 4, y: 652}
   - name: Health_bar_Frame_11
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.57425743, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 244
+      x: 114
       y: 652
-      width: 112
+      width: 101
       height: 19
     spriteID: dcc52928a1ac3b64283e0ba572873506
     spriteBone: []
@@ -360,17 +360,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 244, y: 652}
+    uvTransform: {x: 114, y: 652}
   - name: Health_bar_Frame_12
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.58, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 364
+      x: 223
       y: 652
-      width: 112
+      width: 100
       height: 19
     spriteID: d53488e89cf389f43aca9a02d794a6eb
     spriteBone: []
@@ -380,17 +380,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 364, y: 652}
+    uvTransform: {x: 223, y: 652}
   - name: Health_bar_Frame_13
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5858586, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 679
-      width: 112
+      x: 331
+      y: 652
+      width: 99
       height: 19
     spriteID: 5a34705cbf21c0640b1445a6a013fdb4
     spriteBone: []
@@ -400,17 +400,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 679}
+    uvTransform: {x: 331, y: 652}
   - name: Health_bar_Frame_14
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.59183675, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 124
+      x: 4
       y: 679
-      width: 112
+      width: 98
       height: 19
     spriteID: 6f406b21d1df5ea4e8fa13827d05ce60
     spriteBone: []
@@ -420,17 +420,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 124, y: 679}
+    uvTransform: {x: 4, y: 679}
   - name: Health_bar_Frame_15
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.5979381, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 244
+      x: 110
       y: 679
-      width: 112
+      width: 97
       height: 19
     spriteID: 4e7202499285b554da88ab4a75e2946e
     spriteBone: []
@@ -440,17 +440,17 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 244, y: 679}
+    uvTransform: {x: 110, y: 679}
   - name: Health_bar_Frame_16
     originalName: 
-    pivot: {x: 0.51785713, y: -0.2105263}
+    pivot: {x: 0.6041666, y: -0.2105263}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 364
+      x: 215
       y: 679
-      width: 112
+      width: 96
       height: 19
     spriteID: c3a135a3c3fa0cb44a9857f6974c6f71
     spriteBone: []
@@ -460,7 +460,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 364, y: 679}
+    uvTransform: {x: 215, y: 679}
   - name: Health_bar_Frame_17
     originalName: 
     pivot: {x: 0.50877196, y: -0.2105263}
@@ -2213,17 +2213,17 @@ ScriptedImporter:
     - name: Health_bar_Frame_0
       frameIndex: 0
       cellRect:
-        x: 2
-        y: 4
-        width: 112
-        height: 19
+        x: 7
+        y: 7
+        width: 107
+        height: 9
       spriteId: efba3a465ea940448b2b51f3f0795ef5
     - name: Health_bar_Frame_1
       frameIndex: 1
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 111
         height: 19
       spriteId: 2b556b30480194f4fa6d075eb21c08e3
     - name: Health_bar_Frame_2
@@ -2231,7 +2231,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 110
         height: 19
       spriteId: c33f250a13417e14c9d23cad1926a92b
     - name: Health_bar_Frame_3
@@ -2239,7 +2239,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 109
         height: 19
       spriteId: 9a11ff536aafeda41beec332cbede7e7
     - name: Health_bar_Frame_4
@@ -2247,7 +2247,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 108
         height: 19
       spriteId: bf9e05b1d06600645bfbf9a7e3ddba36
     - name: Health_bar_Frame_5
@@ -2255,7 +2255,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 107
         height: 19
       spriteId: 8f4ae044f031e0543aa07ae7ac784677
     - name: Health_bar_Frame_6
@@ -2263,7 +2263,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 106
         height: 19
       spriteId: ca13fd7697813564b922fd1be15df9c3
     - name: Health_bar_Frame_7
@@ -2271,7 +2271,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 105
         height: 19
       spriteId: 59b668e77c1bfe14dbd804b621486261
     - name: Health_bar_Frame_8
@@ -2279,7 +2279,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 104
         height: 19
       spriteId: f629c5c0a94f54c4c9b3e160ec4c21eb
     - name: Health_bar_Frame_9
@@ -2287,7 +2287,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 103
         height: 19
       spriteId: f4d3c1a162340d64fafd418b39001bbb
     - name: Health_bar_Frame_10
@@ -2295,7 +2295,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 102
         height: 19
       spriteId: c6b5735395e6ae54aa9bebd9fe64ce2a
     - name: Health_bar_Frame_11
@@ -2303,7 +2303,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 101
         height: 19
       spriteId: dcc52928a1ac3b64283e0ba572873506
     - name: Health_bar_Frame_12
@@ -2311,7 +2311,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 100
         height: 19
       spriteId: d53488e89cf389f43aca9a02d794a6eb
     - name: Health_bar_Frame_13
@@ -2319,7 +2319,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 99
         height: 19
       spriteId: 5a34705cbf21c0640b1445a6a013fdb4
     - name: Health_bar_Frame_14
@@ -2327,7 +2327,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 98
         height: 19
       spriteId: 6f406b21d1df5ea4e8fa13827d05ce60
     - name: Health_bar_Frame_15
@@ -2335,7 +2335,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 97
         height: 19
       spriteId: 4e7202499285b554da88ab4a75e2946e
     - name: Health_bar_Frame_16
@@ -2343,7 +2343,7 @@ ScriptedImporter:
       cellRect:
         x: 2
         y: 4
-        width: 112
+        width: 96
         height: 19
       spriteId: c3a135a3c3fa0cb44a9857f6974c6f71
     - name: Health_bar_Frame_17

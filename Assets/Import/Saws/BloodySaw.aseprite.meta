@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9bec03d2f265aad4185393244e19ecd2
+guid: 580546141c012654197d249f041386ec
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 64
       width: 28
       height: 15
-    spriteID: 8a60e91dbff273848b3adc2b13f97599
+    spriteID: cb540648f2a2a83418e7b445ea5ce270
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 36
       width: 30
       height: 16
-    spriteID: a498215545048c44187796924427df44
+    spriteID: 06ea17f06d4664942ad3db2e2a615d2a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 36
       width: 31
       height: 18
-    spriteID: 41e4987572c097242b21820ca1e67007
+    spriteID: 313814dc3b0fe0e43ad371bf027992da
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 24
-    spriteID: 4de599365186cd8488913045e61ee974
+    spriteID: 61a757882d927974f88b72dc70a99c33
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 24
-    spriteID: 87de99690b9c81943a2718077e194ce9
+    spriteID: 581d095c92f239046afe2a6161f0ece1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 22
-    spriteID: 5505e74b41bab104085a160c7442ad80
+    spriteID: b8c393817fbb05d458dc0b96b7c06699
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 36
       width: 31
       height: 20
-    spriteID: e9fa8227df704e640bd80d622a0e0de6
+    spriteID: 16d224cfd5c329946b3df509e1a98e11
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 64
       width: 30
       height: 16
-    spriteID: 72c1ae1182fd52d4585d0f843f04e8e0
+    spriteID: 67c83c8c1c3092249b53e156e22eebfd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 64
       width: 28
       height: 15
-    spriteID: 3e01e013be67a5f4fb2f04b18a8495ba
+    spriteID: 65ab6377e8daa564b93927389a48fd78
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -317,7 +317,7 @@ ScriptedImporter:
         y: 0
         width: 28
         height: 15
-      spriteId: 8a60e91dbff273848b3adc2b13f97599
+      spriteId: cb540648f2a2a83418e7b445ea5ce270
     - name: BloodySaw_Frame_1
       frameIndex: 1
       cellRect:
@@ -325,7 +325,7 @@ ScriptedImporter:
         y: 0
         width: 30
         height: 16
-      spriteId: a498215545048c44187796924427df44
+      spriteId: 06ea17f06d4664942ad3db2e2a615d2a
     - name: BloodySaw_Frame_2
       frameIndex: 2
       cellRect:
@@ -333,7 +333,7 @@ ScriptedImporter:
         y: 0
         width: 31
         height: 18
-      spriteId: 41e4987572c097242b21820ca1e67007
+      spriteId: 313814dc3b0fe0e43ad371bf027992da
     - name: BloodySaw_Frame_3
       frameIndex: 3
       cellRect:
@@ -341,7 +341,7 @@ ScriptedImporter:
         y: 0
         width: 32
         height: 24
-      spriteId: 4de599365186cd8488913045e61ee974
+      spriteId: 61a757882d927974f88b72dc70a99c33
     - name: BloodySaw_Frame_4
       frameIndex: 4
       cellRect:
@@ -349,7 +349,7 @@ ScriptedImporter:
         y: 0
         width: 32
         height: 24
-      spriteId: 87de99690b9c81943a2718077e194ce9
+      spriteId: 581d095c92f239046afe2a6161f0ece1
     - name: BloodySaw_Frame_5
       frameIndex: 5
       cellRect:
@@ -357,7 +357,7 @@ ScriptedImporter:
         y: 0
         width: 32
         height: 22
-      spriteId: 5505e74b41bab104085a160c7442ad80
+      spriteId: b8c393817fbb05d458dc0b96b7c06699
     - name: BloodySaw_Frame_6
       frameIndex: 6
       cellRect:
@@ -365,7 +365,7 @@ ScriptedImporter:
         y: 0
         width: 31
         height: 20
-      spriteId: e9fa8227df704e640bd80d622a0e0de6
+      spriteId: 16d224cfd5c329946b3df509e1a98e11
     - name: BloodySaw_Frame_7
       frameIndex: 7
       cellRect:
@@ -373,7 +373,7 @@ ScriptedImporter:
         y: 0
         width: 30
         height: 16
-      spriteId: 72c1ae1182fd52d4585d0f843f04e8e0
+      spriteId: 67c83c8c1c3092249b53e156e22eebfd
     - name: BloodySaw_Frame_8
       frameIndex: 8
       cellRect:
@@ -381,7 +381,7 @@ ScriptedImporter:
         y: 0
         width: 28
         height: 15
-      spriteId: 3e01e013be67a5f4fb2f04b18a8495ba
+      spriteId: 65ab6377e8daa564b93927389a48fd78
     linkedCells: []
     parentIndex: -1
   platformSettings: []

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 49ec8174530f5c5408a6a42dc87ef4be
+guid: 682e6ebdaee5caf48b6b9bf044be31a1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Saw 1_Frame_0
+  - name: Saw_Frame_0
     originalName: 
     pivot: {x: 0.5357143, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 52
       width: 28
       height: 15
-    spriteID: 60bfebc1840b6ae41a8e2223193e326c
+    spriteID: 34ecc7d4bb026d7419fb86d3373f5f76
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 42, y: 52}
-  - name: Saw 1_Frame_1
+  - name: Saw_Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 28
       width: 30
       height: 16
-    spriteID: 8f97cb3b7794d3c42a1567ed90d5b11d
+    spriteID: 5cfe0d5816cf1544891230f137fdf3a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 43, y: 28}
-  - name: Saw 1_Frame_2
+  - name: Saw_Frame_2
     originalName: 
     pivot: {x: 0.48387095, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 31
       height: 16
-    spriteID: f8bd62fe8aed387448d8e867274932af
+    spriteID: 8ebee382aec21a142a03d6ad4a0bbe79
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 4}
-  - name: Saw 1_Frame_3
+  - name: Saw_Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 16
-    spriteID: d7bc742022d0a764d86845cf4253038e
+    spriteID: b2dcd2869e69ebb4e99deaa07bf3c6b0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Saw 1_Frame_4
+  - name: Saw_Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 28
       width: 32
       height: 15
-    spriteID: 08ab88056e81b8a48abdf2fe4e3c7d86
+    spriteID: b49dfc0d706760d4ab4a61eb932b158e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 81, y: 28}
-  - name: Saw 1_Frame_5
+  - name: Saw_Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 16
-    spriteID: a4c031716310c1d479ef1188c40df1fb
+    spriteID: d8dbfa7b12b13ab44917e7c1fbe44308
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 44, y: 4}
-  - name: Saw 1_Frame_6
+  - name: Saw_Frame_6
     originalName: 
     pivot: {x: 0.48387095, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 28
       width: 31
       height: 16
-    spriteID: 8814772e2ae87064da288527c0cb71c7
+    spriteID: 2277a199652d6eb47955276030c2f2b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 28}
-  - name: Saw 1_Frame_7
+  - name: Saw_Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 52
       width: 30
       height: 16
-    spriteID: b08e4179b26dbeb4083cc28e485156da
+    spriteID: 61b79e6a7ac100c41ac319bdeab2d223
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 52}
-  - name: Saw 1_Frame_8
+  - name: Saw_Frame_8
     originalName: 
     pivot: {x: 0.5357143, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 52
       width: 28
       height: 15
-    spriteID: 9062dd2f24ad69a4db1a1f42c688289f
+    spriteID: 8aeaebad43ae637448d8c99a30809cf0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -304,84 +304,84 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1728386932
-    name: Saw 1
+    guid: 1446398865
+    name: Saw
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Saw 1_Frame_0
+    - name: Saw_Frame_0
       frameIndex: 0
       cellRect:
         x: 1
         y: 0
         width: 28
         height: 15
-      spriteId: 60bfebc1840b6ae41a8e2223193e326c
-    - name: Saw 1_Frame_1
+      spriteId: 34ecc7d4bb026d7419fb86d3373f5f76
+    - name: Saw_Frame_1
       frameIndex: 1
       cellRect:
         x: 1
         y: 0
         width: 30
         height: 16
-      spriteId: 8f97cb3b7794d3c42a1567ed90d5b11d
-    - name: Saw 1_Frame_2
+      spriteId: 5cfe0d5816cf1544891230f137fdf3a7
+    - name: Saw_Frame_2
       frameIndex: 2
       cellRect:
         x: 1
         y: 0
         width: 31
         height: 16
-      spriteId: f8bd62fe8aed387448d8e867274932af
-    - name: Saw 1_Frame_3
+      spriteId: 8ebee382aec21a142a03d6ad4a0bbe79
+    - name: Saw_Frame_3
       frameIndex: 3
       cellRect:
         x: 0
         y: 0
         width: 32
         height: 16
-      spriteId: d7bc742022d0a764d86845cf4253038e
-    - name: Saw 1_Frame_4
+      spriteId: b2dcd2869e69ebb4e99deaa07bf3c6b0
+    - name: Saw_Frame_4
       frameIndex: 4
       cellRect:
         x: 0
         y: 0
         width: 32
         height: 15
-      spriteId: 08ab88056e81b8a48abdf2fe4e3c7d86
-    - name: Saw 1_Frame_5
+      spriteId: b49dfc0d706760d4ab4a61eb932b158e
+    - name: Saw_Frame_5
       frameIndex: 5
       cellRect:
         x: 0
         y: 0
         width: 32
         height: 16
-      spriteId: a4c031716310c1d479ef1188c40df1fb
-    - name: Saw 1_Frame_6
+      spriteId: d8dbfa7b12b13ab44917e7c1fbe44308
+    - name: Saw_Frame_6
       frameIndex: 6
       cellRect:
         x: 1
         y: 0
         width: 31
         height: 16
-      spriteId: 8814772e2ae87064da288527c0cb71c7
-    - name: Saw 1_Frame_7
+      spriteId: 2277a199652d6eb47955276030c2f2b9
+    - name: Saw_Frame_7
       frameIndex: 7
       cellRect:
         x: 1
         y: 0
         width: 30
         height: 16
-      spriteId: b08e4179b26dbeb4083cc28e485156da
-    - name: Saw 1_Frame_8
+      spriteId: 61b79e6a7ac100c41ac319bdeab2d223
+    - name: Saw_Frame_8
       frameIndex: 8
       cellRect:
         x: 1
         y: 0
         width: 28
         height: 15
-      spriteId: 9062dd2f24ad69a4db1a1f42c688289f
+      spriteId: 8aeaebad43ae637448d8c99a30809cf0
     linkedCells: []
     parentIndex: -1
   platformSettings: []

@@ -1,18 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed;
-     public float jumpForce;
+    public float jumpForce;
     private bool isJumping;
-    private bool isGrounded;
-    public Transform groundCheckLeft;
-    public Transform groundCheckRight;
+
+    public bool isGrounded;
+    public float groundcheckRadius;
+    public LayerMask groundLayer;
+    public Transform groundCheck;
     public Animator animator;
+
     public bool anim_spawn = false;
     public bool anim_death = false;
+
 
     public Rigidbody2D rb;
     private Vector3 velocity = Vector3.zero;
@@ -24,12 +29,17 @@ public class PlayerMovement : MonoBehaviour
             isJumping = true;
         }
     }
-   
+
+    
+
+
     // Update is called once per frame
     void FixedUpdate()
     {
-        isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position);
-        
+
+        //isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position);
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundcheckRadius, groundLayer);
+
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
 
         
@@ -43,6 +53,8 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Speed", characterVelocity);
         
     }
+
+
     void MovePlayer(float _horizontalMovement)
     {
         if (!anim_spawn && !anim_death)
